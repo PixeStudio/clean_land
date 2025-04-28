@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+	<text x="50%" y="50" text-anchor="middle" font-family="Playfair Display, serif" font-size="40" fill="#604327">LE</text>
+	<text x="50%" y="110" text-anchor="middle" font-family="Playfair Display, serif" font-size="40" fill="#604327">THÉÂTRE</text>
+	<text x="50%" y="170" text-anchor="middle" font-family="Playfair Display, serif" font-size="40" fill="#604327">VARIÉTÉ</text>
+	<line x1="100" x2="500" y1="200" y2="200" stroke="#604327" stroke-width="2"/>
+	<text x="50%" y="240" text-anchor="middle" font-family="Playfair Display, serif" font-size="20" fill="#604327">REVUE DE PHILOSOPHIE ET DE LITTÉRATURE</text>
+</svg>
